@@ -181,7 +181,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::Spikehead
   damage: 1
   detectRange: 5
-  fallGravity: 6
+  fallGravity: 8
   resetDelay: 2
   playerLayer:
     serializedVersion: 2
